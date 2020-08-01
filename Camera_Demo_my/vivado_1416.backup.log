@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jul 31 11:41:50 2020
+# Process ID: 1416
+# Current directory: D:/Study/vivado/program/Camera_Demo_my/Camera_Demo_my
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8132 D:\Study\vivado\program\Camera_Demo_my\Camera_Demo_my\Camera_Demo.xpr
+# Log file: D:/Study/vivado/program/Camera_Demo_my/Camera_Demo_my/vivado.log
+# Journal file: D:/Study/vivado/program/Camera_Demo_my/Camera_Demo_my\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Study/vivado/program/Camera_Demo_my/Camera_Demo_my/Camera_Demo.xpr
+INFO: [Project 1-313] Project file moved from 'D:/VIVADOwork/Camera_Demo_my' since last save.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/FPGA-Demo-Project/Camera_Demo/tcl/Elimate_Constraints_Error.tcl'.
+Scanning sources...
+Finished scanning sources
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/Study/vivado/program/Camera_Demo_my/Camera_Demo_my/IP_Core'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/application/XILINX/Vivado/2018.3/data/ip'.
+INFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jul 31 11:42:57 2020...
